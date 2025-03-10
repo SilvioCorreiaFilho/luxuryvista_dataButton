@@ -1,0 +1,27 @@
+# Workspace version: 1.42.60
+python-multipart==0.0.9
+databutton==0.38.34
+uvicorn[standard]==0.29.0
+fastapi==0.111.0
+ipykernel==6.29.5
+openai
+beautifulsoup4
+requests
+supabase
+psycopg2-binary
+tabulate
+wagtail
+django
+django-environ
+httpx
+sqlmodel
+anthropic
+django-cors-headers
+python-decouple
+djangorestframework
+mistralai
+python-dotenv
+whitenoise
+dj-database-url
+deepseek
+aiohttp
